@@ -42,6 +42,6 @@
 </p>
 
 
-<p>
+<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/sami-mahmodi" alt="Visitor Badge"/>
 </p>
