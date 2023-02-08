@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZnJvbnRlbmQlMjBkZXZlbG9wZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" width="200" height="200">
-</p>
+
 
 <h1 align="center">Samiullah Mahmodi</h1>
 <h2 align="center">Frontend Developer</h2>
