@@ -3,15 +3,13 @@
 </p>
 
 <h1 align="center">Samiullah Mahmodi</h1>
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer</h2>
 
+
+<h3 align="center">  🏗️ Learning：</h3>
 
 
 <div align="center">
-  ### 🏗️ Learning：
-  
-  
-  
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
@@ -26,8 +24,6 @@
   <a href="https://www.linkedin.com/in/samiullah-mahmodi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg" alt="LinkedIn">
   </a>
-
-    <img src="https://img.shields.io/badge/Email-Send%20a%20message-yellow.svg" alt="Email">
   </a>
 </p>
 
