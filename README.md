@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Samiullah Mahmodi</h1>
-<h2 align="center">Frontend Developer</h2>
+<h1>Samiullah Mahmodi</h1>
+<h2>Frontend Developer</h2>
 
 
  ### 🏗️ Learning：
@@ -15,7 +15,7 @@
 
 
 
-<p align="center">
+<p>
   
   
   <a href="https://www.linkedin.com/in/samiullah-mahmodi/">
@@ -36,6 +36,6 @@ samiullahmahmodi1212@outlook.com
 
 https://www.linkedin.com/in/samiullah-mahmodi
 
-<p align="center">
+<p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/sami-mahmodi" alt="Visitor Badge"/>
 </p>
