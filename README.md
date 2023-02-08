@@ -2,7 +2,7 @@
 
 <h1>Samiullah Mahmodi</h1>
 <h2>Frontend Developer</h2>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  ### 🏗️ Learning：
 
@@ -15,6 +15,25 @@
 
 
 
+<h2 align="left">Skills</h2>
+<p align="left">
+<div>
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
+	<img height="50" src="https://github.com/coherencez/tech-logos/blob/master/sass.png" alt="Sass" title="Sass" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+</div>
+</p>
+## About Me
+
+one who like to code and learn new things
+
+## Contact Me
+
 <p>
   
   
@@ -22,19 +41,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg" alt="LinkedIn">
   </a>
   
-  
 </p>
 
-## About Me
-
-one who like to code and learn new things
-
-## Contact Me
-
-samiullahmahmodi1212@outlook.com
-
-
-https://www.linkedin.com/in/samiullah-mahmodi
 
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/sami-mahmodi" alt="Visitor Badge"/>
