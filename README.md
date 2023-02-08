@@ -28,9 +28,7 @@
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
 </div>
 </p>
-## About Me
 
-one who like to code and learn new things
 
 ## Contact Me
 
