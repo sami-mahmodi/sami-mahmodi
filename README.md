@@ -21,10 +21,13 @@
 
 
 <p align="center">
+  
+  
   <a href="https://www.linkedin.com/in/samiullah-mahmodi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg" alt="LinkedIn">
   </a>
-  </a>
+  
+  
 </p>
 
 ## About Me
